@@ -1,3 +1,24 @@
 Coleção de atalhos para execução dos comandos de script do Rails.
 
+Para instalar...
+
+... no Windows:
+
+Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH. Eu gosto de adicionar esses arquivos na propria pasta do ruby\bin.
+
+Os atalhos n console:
+
+s ==> ruby script/server
+
+g ==> ruby script/generate
+
+d ==> ruby script/destroy
+
+model ==> ruby script/generate model
+
+scaffold ==> ruby script/generate scaffold
+
+controller ==> ruby script/generate controller
+
+migration ==> ruby script/generate migration 
 
