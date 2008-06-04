@@ -1,0 +1,14 @@
+#Add the below code in your ~/.bashrc file and restart the console session.
+#Aliases for Rails commands
+
+    alias s="script/server"
+    alias st="script/server -e test -p 4000"
+    alias c="script/console"
+    alias a="autotest -rails"
+    alias migrate="rake db:migrate"
+    alias g="script/generate"
+    alias model="g model"
+    alias controller="g controller"
+    alias scaffold="g scaffold"
+    alias migration="g migration"
+
