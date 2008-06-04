@@ -1,10 +1,10 @@
-Coleção de atalhos para execução dos comandos de script do Rails.
+Colecao de atalhos para execucao dos comandos de script do Rails.
 
 Para instalar...
 
 ... no Windows:
 
-Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH. Eu gosto de adicionar esses arquivos na propria pasta do ruby\bin.
+Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH. Eu gosto de adicionar esses arquivos na propria pasta do c:\ruby\bin.
 
 Os atalhos n console:
 
