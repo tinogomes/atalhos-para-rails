@@ -1,20 +1,21 @@
-h1. Atalhos para Rails H1
+h1. Atalhos para Rails
 
 Colecao de atalhos para execucao dos comandos de script do Rails.
 
-h2. Para instalar no: H2
+h2. Para instalar no:
 
-h3. Windows :( H3
+h3. Windows :(
 
 Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH. 
 Eu gosto de adicionar esses arquivos na propria pasta do c:\ruby\bin.
 
-h3. Linux/Mac :) H3
+h3. Linux/Mac :)
 
 Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc 
 Alias, no Mac tambem? Alguem me corriga!  :)
 
-h2. Os atalhos no console: H2
+h2. Os atalhos no console
+
 |_.atalho|_.comando|
 |s|ruby script/server|
 |g|ruby script/generate|
