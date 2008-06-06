@@ -1,7 +1,8 @@
 #Add the below code in your ~/.bashrc file and restart the console session.
 #Aliases for Rails commands
 
-    alias s="ruby script/server"
+    alias d="ruby script/destroy"
+	alias s="ruby script/server"
     alias st="ruby script/server -e test -p 4000"
     alias c="ruby script/console"
     alias a="autotest -rails"
