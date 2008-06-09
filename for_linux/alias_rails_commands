@@ -1,15 +1,22 @@
 #Add the below code in your ~/.bashrc file and restart the console session.
 #Aliases for Rails commands
 
-    alias d="ruby script/destroy"
-	alias s="ruby script/server"
-    alias st="ruby script/server -e test -p 4000"
-    alias c="ruby script/console"
-    alias a="autotest -rails"
-    alias migrate="rake db:migrate"
-    alias g="ruby script/generate"
-    alias model="g model"
-    alias controller="g controller"
-    alias scaffold="g scaffold"
-    alias migration="g migration"
+  alias d="ruby script/destroy"
+  alias s="ruby script/server"
+  alias st="ruby script/server -e test -p 4000"
+  alias c="ruby script/console"
+  alias a="autotest -rails"
+  alias migrate="rake db:migrate"
+  alias g="ruby script/generate"
+  alias model="g model"
+  alias controller="g controller"
+  alias scaffold="g scaffold"
+  alias migration="g migration"
 
+# RSpec
+  alias rspec_model="g rspec_model"
+  alias rspec_controller="g rspec_controller"
+  alias rspec_scafold="g rspec_scaffold"
+
+# Passenger
+  alias restart_app="touch ./tmp/restart.txt"

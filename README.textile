@@ -6,13 +6,14 @@ h2. Para instalar no:
 
 h3. Windows :(
 
-Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH. 
+Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH.
 Eu gosto de adicionar esses arquivos na propria pasta do c:\ruby\bin.
 
-h3. Linux/Mac :)
+h3. Linux :) / Mac :))
 
-Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc 
-Alias, no Mac tambem? Alguem me corriga!  :)
+Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc no Linux
+e no Mac em seu arquivo ~/.profile
+
 
 h2. Os atalhos no console
 
