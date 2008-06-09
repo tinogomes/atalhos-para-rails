@@ -12,7 +12,7 @@ Eu gosto de adicionar esses arquivos na propria pasta do c:\ruby\bin.
 h3. Linux :) / Mac :))
 
 Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc no Linux
-e no Mac em seu arquivo ~/.profile
+e no Mac em seu arquivo ~/.bash_profile.
 
 
 h2. Os atalhos no console
