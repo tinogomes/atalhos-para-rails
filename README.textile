@@ -26,3 +26,6 @@ h2. Os atalhos no console
 |controller|ruby script/generate controller|
 |migration|ruby script/generate migration|
 |migrate|rake db:migrate|
+|rspec_model|ruby script/generate rspec_model|
+|rspec_scaffold|ruby script/generate rspec_scaffold|
+|rspec_controller|ruby script/generate rspec_controller|
