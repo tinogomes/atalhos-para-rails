@@ -11,9 +11,7 @@ Eu gosto de adicionar esses arquivos na propria pasta do c:\ruby\bin.
 
 h3. Linux :) / Mac :))
 
-Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc no Linux
-e no Mac em seu arquivo ~/.bash_profile.
-
+Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc no Linux e no Mac em seu arquivo ~/.bash_profile.
 
 h2. Os atalhos no console
 
@@ -29,3 +27,17 @@ h2. Os atalhos no console
 |rspec_model|ruby script/generate rspec_model|
 |rspec_scaffold|ruby script/generate rspec_scaffold|
 |rspec_controller|ruby script/generate rspec_controller|
+
+h3. Como contribuir?
+
+Eu sei pessoal que muito aqui usam Linux/Mac, mas sugiro aos que quiserem ajudar, quando criar um alias, criar também os atalhos para os sofredores que usam Windows...
+
+h3. Colaboradores e quem já contribuiu?
+
+Eu sei galera, é só olhar o log dos commits para ver quem ajudou, mas aqui fica mais bonito, né?
+
+:)
+
+"tinogomes":http://github.com/tinogomes
+"tapajos":http://github.com/tapajos
+"daviscabral":http://github.com/daviscabral
