@@ -38,6 +38,6 @@ Eu sei galera, é só olhar o log dos commits para ver quem ajudou, mas aqui fic
 
 :)
 
-"tinogomes":http://github.com/tinogomes
-"tapajos":http://github.com/tapajos
-"daviscabral":http://github.com/daviscabral
+"tinogomes":http://github.com/tinogomes, "tapajos":http://github.com/tapajos, "daviscabral":http://github.com/daviscabral
+
+Obrigado a todos!
