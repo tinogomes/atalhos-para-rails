@@ -1,19 +1,22 @@
-#Add the below code in your ~/.bashrc file and restart the console session.
-#Aliases for Rails commands
+#In Linux, add the below code in your ~/.bashrc file and restart the console session.
+#In Mac, add the below code in your ~/.bash_profile and restart the console session.
 
+#Aliases for Rails commands
   alias d="ruby script/destroy"
   alias s="ruby script/server"
   alias st="ruby script/server -e test -p 4000"
   alias c="ruby script/console"
   alias a="autotest -rails"
   alias migrate="rake db:migrate"
+
+# Rails Generators
   alias g="ruby script/generate"
   alias model="g model"
   alias controller="g controller"
   alias scaffold="g scaffold"
   alias migration="g migration"
 
-# RSpec
+# RSpec Generators
   alias rspec_model="g rspec_model"
   alias rspec_controller="g rspec_controller"
   alias rspec_scafold="g rspec_scaffold"
