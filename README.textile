@@ -1,17 +1,17 @@
 h1. Atalhos para Rails
 
-Colecao de atalhos para execucao dos comandos de script do Rails.
+Coleção de atalhos para execução dos comandos de script do Rails. Este projeto está parado no tempo e se depender de mim vai continuar assim. Se quer novos truques, dêem uma olhada em "dotfiles":https://github.com/tinogomes/dotfiles
 
 h2. Para instalar no:
 
 h3. Windows :(
 
 Colocar os arquivos da pasta for_windows em qualquer pasta em seu computador e adicionar essa pasta no PATH.
-Eu gosto de adicionar esses arquivos na propria pasta do c:\ruby\bin.
+Eu gosto de adicionar esses arquivos na própria pasta do c:\ruby\bin.
 
 h3. Linux :) / Mac :))
 
-Copiar o codigo que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc no Linux e no Mac em seu arquivo ~/.bash_profile.
+Copiar o código que se encontra no arquivo for_linux/alias_rails_commands em seu arquivo ~/.bashrc ou ~/.bash_profile.
 
 h2. Os atalhos no console
 
@@ -32,12 +32,6 @@ h3. Como contribuir?
 
 Eu sei pessoal que muito aqui usam Linux/Mac, mas sugiro aos que quiserem ajudar, quando criar um alias, criar também os atalhos para os sofredores que usam Windows...
 
-h3. Colaboradores e quem já contribuiu?
+h3. Colaboradores
 
-Eu sei galera, é só olhar o log dos commits para ver quem ajudou, mas aqui fica mais bonito, né?
-
-:)
-
-"tinogomes":http://github.com/tinogomes, "tapajos":http://github.com/tapajos, "daviscabral":http://github.com/daviscabral
-
-Obrigado a todos!
+Olha no histórico de commits
